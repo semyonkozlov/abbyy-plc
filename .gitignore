@@ -67,6 +67,7 @@ fabric.properties
 .idea/sonarlint
 
 ###
-.idea
+.idea/
+__pycache__/
 
 # End of https://www.gitignore.io/api/clion
